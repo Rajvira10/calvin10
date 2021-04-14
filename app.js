@@ -1,1 +1,10 @@
-alert("HELLO!!!!!! I AM ANONYMOUS!!!! AND I HAVE COME FOR YOU SAKLAIN MAHBUB CALVIN!!!!!!!!!!!!!");
+const calvin=0
+window.onload = function(){
+    setTimeout(loadAfterTime, 1000)
+};
+
+function loadAfterTime() { 
+    while(calvin==0){
+        alert("YOU HAVE BEEN HACKED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+    }
+}
