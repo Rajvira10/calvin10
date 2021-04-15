@@ -5,6 +5,6 @@ window.onload = function(){
 
 function loadAfterTime() { 
     while(calvin==0){
-        alert("YOU HAVE BEEN HACKED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        alert("YOU HAVE BEEN HACKED!! YOUR PERSONAL DATA HAS BEEN LEAKED");
     }
 }
